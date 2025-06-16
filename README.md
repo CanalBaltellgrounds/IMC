@@ -12,8 +12,3 @@ Flutter
 Dart
 vsCode
 Firebase Studio
-Como executar:
-Clone este repositório
-Abra com VsCode ou Android Studio, com um terminal instale as dependências e execute no emulador ou navegador
-flutter pub get
-flutter run
